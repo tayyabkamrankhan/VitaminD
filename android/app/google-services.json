@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124174642820",
+    "project_id": "vitamin-d-sensor",
+    "storage_bucket": "vitamin-d-sensor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124174642820:android:161c35a708032e7f53dcd1",
+        "android_client_info": {
+          "package_name": "com.tyb.vitamin_d_sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124174642820-udl21mn94hsadd0rnghnlj999glb9399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbW1Adr7tfQ_64v2XwYAlxK-VU7foTSkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124174642820-udl21mn94hsadd0rnghnlj999glb9399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

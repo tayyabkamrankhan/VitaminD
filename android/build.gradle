@@ -1,0 +1,23 @@
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    project.evaluationDependsOn(":app")
+
+    project.plugins.whenPluginAdded { plugin ->
+        if (plugin.class.name == "com.android.build.gradle.LibraryPlugin") {
+            project.android.namespace = project.android.namespace ?: 
+                new XmlParser().parse(project.android.sourceSets.main.manifest.srcFile).@package
+        }
+    }
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.layout.buildDirectory
+}

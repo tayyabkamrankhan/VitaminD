@@ -1,0 +1,1022 @@
+[ +234 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +1 ms] executing: [C:\Users\CrownTech\Documents\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +68 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-04-29 10:03:19 -0700
+[  +16 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +66 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[  +13 ms] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +7 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +20 ms] Skipping pub get: version match.
+[ +186 ms] Found plugin usb_serial at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\usb_serial-0.4.0\
+[   +7 ms] Found plugin shared_preferences at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +6 ms] Found plugin shared_preferences_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +3 ms] Found plugin shared_preferences_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +5 ms] Found plugin path_provider_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +4 ms] Found plugin shared_preferences_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +3 ms] Found plugin shared_preferences_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +4 ms] Found plugin printing at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[  +17 ms] Found plugin permission_handler at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +2 ms] Found plugin permission_handler_html at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +5 ms] Found plugin path_provider at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +6 ms] Found plugin path_provider_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +2 ms] Found plugin jni at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +6 ms] Found plugin geolocator at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-11.1.0\
+[   +1 ms] Found plugin geolocator_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +2 ms] Found plugin geolocator_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-3.0.0\
+[   +1 ms] Found plugin geolocator_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.13\
+[   +2 ms] Found plugin geolocator_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[   +7 ms] Found plugin flutter_local_notifications at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +2 ms] Found plugin flutter_libserialport at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_libserialport-0.3.0\
+[   +8 ms] Found plugin firebase_storage at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.10\
+[   +1 ms] Found plugin firebase_storage_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.10.17\
+[   +2 ms] Found plugin firebase_core at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.2\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.1\
+[   +2 ms] Found plugin firebase_messaging at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.10.10\
+[   +3 ms] Found plugin firebase_auth at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.7.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.15.3\
+[   +4 ms] Found plugin cloud_firestore at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.12\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-4.4.12\
+[   +5 ms] Found plugin sqflite at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +6 ms] Found plugin sqflite_darwin at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[ +105 ms] Found plugin usb_serial at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\usb_serial-0.4.0\
+[   +1 ms] Found plugin shared_preferences at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +3 ms] Found plugin shared_preferences_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +2 ms] Found plugin shared_preferences_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +2 ms] Found plugin printing at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[  +11 ms] Found plugin permission_handler at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +1 ms] Found plugin permission_handler_html at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +1 ms] Found plugin permission_handler_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +4 ms] Found plugin path_provider at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +5 ms] Found plugin path_provider_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +1 ms] Found plugin jni_flutter at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +1 ms] Found plugin jni at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +3 ms] Found plugin geolocator at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-11.1.0\
+[   +2 ms] Found plugin geolocator_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +2 ms] Found plugin geolocator_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-3.0.0\
+[   +1 ms] Found plugin geolocator_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.13\
+[   +1 ms] Found plugin geolocator_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[   +4 ms] Found plugin flutter_local_notifications at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +2 ms] Found plugin flutter_libserialport at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_libserialport-0.3.0\
+[   +5 ms] Found plugin firebase_storage at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.10\
+[   +1 ms] Found plugin firebase_storage_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.10.17\
+[   +1 ms] Found plugin firebase_core at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.2\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.1\
+[   +2 ms] Found plugin firebase_messaging at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.10.10\
+[   +1 ms] Found plugin firebase_auth at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.7.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.15.3\
+[   +4 ms] Found plugin cloud_firestore at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.12\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-4.4.12\
+[   +4 ms] Found plugin sqflite at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +4 ms] Found plugin sqflite_darwin at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +15 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +61 ms] Found plugin usb_serial at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\usb_serial-0.4.0\
+[   +1 ms] Found plugin shared_preferences at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +2 ms] Found plugin path_provider_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +3 ms] Found plugin shared_preferences_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[        ] Found plugin path_provider_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[        ] Found plugin shared_preferences_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +2 ms] Found plugin printing at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[  +10 ms] Found plugin permission_handler at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +1 ms] Found plugin permission_handler_html at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[        ] Found plugin permission_handler_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[        ] Found plugin permission_handler_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +2 ms] Found plugin path_provider at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ] Found plugin path_provider_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +3 ms] Found plugin path_provider_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[        ] Found plugin jni_flutter at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +1 ms] Found plugin jni at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +2 ms] Found plugin geolocator at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-11.1.0\
+[        ] Found plugin geolocator_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[   +1 ms] Found plugin geolocator_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-3.0.0\
+[        ] Found plugin geolocator_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.13\
+[        ] Found plugin geolocator_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[   +3 ms] Found plugin flutter_local_notifications at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +1 ms] Found plugin flutter_libserialport at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_libserialport-0.3.0\
+[   +5 ms] Found plugin firebase_storage at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.10\
+[   +1 ms] Found plugin firebase_storage_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.10.17\
+[   +1 ms] Found plugin firebase_core at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.2\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.1\
+[   +2 ms] Found plugin firebase_messaging at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.10.10\
+[   +1 ms] Found plugin firebase_auth at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.7.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.15.3\
+[   +4 ms] Found plugin cloud_firestore at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.12\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-4.4.12\
+[   +4 ms] Found plugin sqflite at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +3 ms] Found plugin sqflite_darwin at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +20 ms] Generating C:\Users\CrownTech\Documents\vitaminD\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +7 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[  +76 ms] executing: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[  +64 ms] Exit code 0 from: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[        ] [
+             {
+               "instanceId": "b3126901",
+               "installDate": "2026-05-17T21:09:09Z",
+               "installationName": "VisualStudio/18.6.0+11806.211",
+               "installationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community",
+               "installationVersion": "18.6.11806.211",
+               "productId": "Microsoft.VisualStudio.Product.Community",
+               "productPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\devenv.exe",
+               "state": 4294967295,
+               "isComplete": true,
+               "isLaunchable": true,
+               "isPrerelease": false,
+               "isRebootRequired": false,
+               "displayName": "Visual Studio Community 2026",
+               "description": "Everything you need to build modern apps – free for you, built for impact.",
+               "channelId": "VisualStudio.18.Release",
+               "channelUri": "https://aka.ms/vs/18/stable/channel",
+               "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+               "expirationDate": "2026-08-04T17:00:00+00:00",
+               "installedChannelId": "VisualStudio.18.Release",
+               "installedChannelUri": "https://aka.ms/vs/18/stable/channel",
+               "releaseNotes": "https://docs.microsoft.com/en-us/visualstudio/releases/18/release-notes-v18.6#18.6.0",
+               "resolvedInstallationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community",
+               "retirementDate": "2026-11-02T17:00:00+00:00",
+               "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=661480",
+               "updateDate": "2026-05-17T21:09:09.5154145Z",
+               "catalog": {
+                 "buildBranch": "stable",
+                 "buildVersion": "18.6.11806.211",
+                 "featureReleaseMonth": "05",
+                 "featureReleaseYear": "2026",
+                 "id": "VisualStudio/18.6.0+11806.211",
+                 "includeBuildVersionInDisplayVersion": "False",
+                 "localBuild": "build-lab",
+                 "manifestName": "VisualStudio",
+                 "manifestType": "installer",
+                 "productDisplayVersion": "18.6.0",
+                 "productLine": "Dev18",
+                 "productLineVersion": "18",
+                 "productMilestone": "RTW",
+                 "productMilestoneIsPreRelease": "False",
+                 "productName": "Visual Studio",
+                 "productPatchVersion": "0",
+                 "productPreReleaseMilestoneSuffix": "4.0",
+                 "productRelease": "RTW",
+                 "productSemanticVersion": "18.6.0+11806.211",
+                 "requiredEngineVersion": "4.6.58.48107"
+               },
+               "properties": {
+                 "campaignId": "2500:c8a8df71a7b74406aaa215e1b1e4d332",
+                 "canceled": "0",
+                 "channelManifestId": "VisualStudio.18.Release/18.6.0+11806.211",
+                 "includeRecommended": "1",
+                 "nickname": "",
+                 "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+               }
+             }
+           ]
+[   +7 ms] Building Windows application...
+[   +5 ms] executing: C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -S C:\Users\CrownTech\Documents\vitaminD\windows -B C:\Users\CrownTech\Documents\vitaminD\build\windows\x64 -G Visual Studio 18 2026 -A x64 -DFLUTTER_TARGET_PLATFORM=windows-x64
+[  +64 ms] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.22631.
+[  +28 ms] -- Using cached Firebase SDK zip file
+[        ] -- Using cached extracted Firebase SDK
+[   +6 ms] CMake Deprecation Warning at C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/CMakeLists.txt:17 (cmake_minimum_required):
+[   +1 ms]   Compatibility with CMake < 3.10 will be removed from a future version of
+[        ]   CMake.
+[        ]   Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+[        ]   to tell CMake that the project requires at least <min> but has been updated
+[        ]   to work with policies introduced by <max> or earlier.
+[  +10 ms] -- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+[  +32 ms] Nuget.exe not found, trying to download or use cached version.
+[+1894 ms] Feeds used:
+[        ]   C:\Users\CrownTech\.nuget\packages\
+[        ]   https://api.nuget.org/v3/index.json
+[  +71 ms] Package "Microsoft.Windows.CppWinRT.2.0.220418.1" is already installed.
+[+1234 ms] Nuget.exe not found, trying to download or use cached version.
+[ +598 ms] Feeds used:
+[        ]   C:\Users\CrownTech\.nuget\packages\
+[        ]   https://api.nuget.org/v3/index.json
+[  +72 ms] Package "Microsoft.Windows.CppWinRT.2.0.210806.1" is already installed.
+[+1125 ms] -- Downloading/updating pdfium
+[  +56 ms] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.22631.
+[ +768 ms] -- Configuring done (0.8s)
+[  +45 ms] -- Generating done (0.0s)
+[   +2 ms] -- Build files have been written to: C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/pdfium-download
+[ +183 ms] MSBuild version 18.6.3+84d3e95b4 for .NET Framework
+[ +830 ms] -- Configuring done (7.0s)
+[ +588 ms] -- Generating done (0.6s)
+[   +3 ms] -- Build files have been written to: C:/Users/CrownTech/Documents/vitaminD/build/windows/x64
+[  +25 ms] executing: C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe --build C:\Users\CrownTech\Documents\vitaminD\build\windows\x64 --config Release --target INSTALL --verbose
+[ +106 ms] Change Dir: 'C:/Users/CrownTech/Documents/vitaminD/build/windows/x64'
+[        ] Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" INSTALL.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+[ +156 ms] MSBuild version 18.6.3+84d3e95b4 for .NET Framework
+[ +144 ms] Build started 18/05/2026 5:59:04 am.
+[ +261 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" on node 1 (default targets).
+[        ] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (1) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\ZERO_CHECK\".
+[  +10 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\".
+[   +5 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[ +103 ms] CustomBuild:
+[        ]   1>Checking Build System
+[ +112 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate".
+[   +8 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ZERO_CHECK.vcxproj" (default targets).
+[  +86 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (1) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) on node 1 (default targets).
+[        ] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\cloud_firestore_plugin.vcxproj" (4) on node 1 (default targets).
+[        ] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\cloud_firestore_plugin.vcxproj" (4) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_assemble.vcxproj" (5) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\flutter_assemble\".
+[   +2 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\flutter_assemble\flutter_assemble.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild".
+[   +2 ms] CustomBuild:
+[        ]   "The build of 'C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\CMakeFiles\31896013427c515794839db8bb87f39f\flutter_assemble.rule' depends on 'C:\USERS\CROWNTECH\DOCUMENTS\VITAMIND\WINDOWS\FLUTTER\EPHEMERAL\FLUTTER_WINDOWS.DLL' which is produced by the build of 'C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\CMakeFiles\8702ec25a5d9d3b5da745f986b98b63f\flutter_windows.dll.rule'. The items cannot be built in parallel."
+[  +53 ms]   Generating C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_windows.dll, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_export.h, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_windows.h, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_messenger.h, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_plugin_registrar.h, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/flutter_texture_registrar.h, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc, C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc, _phony_
+[+1496 ms]   [ +191 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +4 ms]   [  +13 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms]   [   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +71 ms]   [  +71 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +2 ms]   [   +2 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +32 ms]   [  +33 ms] Initializing file store
+[  +35 ms]   [  +35 ms] dart_build: Starting due to {}
+[   +1 ms]   [   +1 ms] Skipping target: gen_localizations
+[   +3 ms]   [   +3 ms] gen_dart_plugin_registrant: Starting due to {InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\dart_plugin_registrant.dart, InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\Users\CrownTech\Documents\vitaminD\.dart_tool\package_config.json}
+[   +4 ms]   [   +4 ms] unpack_windows: Starting due to {}
+[ +651 ms]   [ +650 ms] unpack_windows: Complete
+[+3400 ms]   [+3400 ms] executing: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[  +64 ms]   [  +64 ms] Exit code 0 from: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[   +4 ms]   [        ] [
+[        ]                {
+[        ]                  "instanceId": "b3126901",
+[        ]                  "installDate": "2026-05-17T21:09:09Z",
+[        ]                  "installationName": "VisualStudio/18.6.0+11806.211",
+[        ]                  "installationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community",
+[        ]                  "installationVersion": "18.6.11806.211",
+[        ]                  "productId": "Microsoft.VisualStudio.Product.Community",
+[        ]                  "productPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\devenv.exe",
+[        ]                  "state": 4294967295,
+[        ]                  "isComplete": true,
+[        ]                  "isLaunchable": true,
+[        ]                  "isPrerelease": false,
+[        ]                  "isRebootRequired": false,
+[        ]                  "displayName": "Visual Studio Community 2026",
+[   +1 ms]                  "description": "Everything you need to build modern apps – free for you, built for impact.",
+[        ]                  "channelId": "VisualStudio.18.Release",
+[        ]                  "channelUri": "https://aka.ms/vs/18/stable/channel",
+[        ]                  "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+[        ]                  "expirationDate": "2026-08-04T17:00:00+00:00",
+[        ]                  "installedChannelId": "VisualStudio.18.Release",
+[        ]                  "installedChannelUri": "https://aka.ms/vs/18/stable/channel",
+[        ]                  "releaseNotes": "https://docs.microsoft.com/en-us/visualstudio/releases/18/release-notes-v18.6#18.6.0",
+[        ]                  "resolvedInstallationPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community",
+[        ]                  "retirementDate": "2026-11-02T17:00:00+00:00",
+[        ]                  "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=661480",
+[        ]                  "updateDate": "2026-05-17T21:09:09.5154145Z",
+[        ]                  "catalog": {
+[        ]                    "buildBranch": "stable",
+[        ]                    "buildVersion": "18.6.11806.211",
+[        ]                    "featureReleaseMonth": "05",
+[        ]                    "featureReleaseYear": "2026",
+[        ]                    "id": "VisualStudio/18.6.0+11806.211",
+[        ]                    "includeBuildVersionInDisplayVersion": "False",
+[        ]                    "localBuild": "build-lab",
+[        ]                    "manifestName": "VisualStudio",
+[        ]                    "manifestType": "installer",
+[        ]                    "productDisplayVersion": "18.6.0",
+[        ]                    "productLine": "Dev18",
+[        ]                    "productLineVersion": "18",
+[        ]                    "productMilestone": "RTW",
+[        ]                    "productMilestoneIsPreRelease": "False",
+[        ]                    "productName": "Visual Studio",
+[        ]                    "productPatchVersion": "0",
+[        ]                    "productPreReleaseMilestoneSuffix": "4.0",
+[        ]                    "productRelease": "RTW",
+[        ]                    "productSemanticVersion": "18.6.0+11806.211",
+[        ]                    "requiredEngineVersion": "4.6.58.48107"
+[        ]                  },
+[        ]                  "properties": {
+[        ]                    "campaignId": "2500:c8a8df71a7b74406aaa215e1b1e4d332",
+[        ]                    "canceled": "0",
+[        ]                    "channelManifestId": "VisualStudio.18.Release/18.6.0+11806.211",
+[        ]                    "includeRecommended": "1",
+[        ]                    "nickname": "",
+[        ]                    "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+[        ]                  }
+[        ]                }
+[        ]              ]
+[        ]   [  +10 ms] Building native assets for windows_x64.
+[  +85 ms]   [  +88 ms] Running `C:\Users\CrownTech\Documents\flutter\bin\cache\dart-sdk\bin\dart compile kernel --packages=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\package_config.json --output=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\hooks_runner\objective_c\fa7372492d\hook.dill --depfile=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\hooks_runner\objective_c\fa7372492d\hook.dill.d C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\objective_c-9.3.0\hook\build.dart`.
+[  +75 ms]   [  +75 ms] Found plugin usb_serial at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\usb_serial-0.4.0\
+[   +6 ms]   [   +6 ms] Found plugin shared_preferences at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +7 ms]   [   +7 ms] Found plugin shared_preferences_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +6 ms]   [   +6 ms] Found plugin path_provider_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +5 ms]   [   +5 ms] Found plugin shared_preferences_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +6 ms]   [   +6 ms] Found plugin shared_preferences_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms]   [   +4 ms] Found plugin path_provider_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +4 ms]   [   +4 ms] Found plugin shared_preferences_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +5 ms]   [   +4 ms] Found plugin shared_preferences_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +6 ms]   [   +7 ms] Found plugin printing at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[  +31 ms]   [  +31 ms] Found plugin permission_handler at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +2 ms]   [   +2 ms] Found plugin permission_handler_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +3 ms]   [   +3 ms] Found plugin permission_handler_html at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +2 ms]   [   +1 ms] Found plugin permission_handler_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[  +49 ms]   [   +2 ms] Found plugin permission_handler_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[        ]   [   +7 ms] Found plugin path_provider at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ]   [   +2 ms] Found plugin path_provider_foundation at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[        ]   [  +14 ms] Found plugin path_provider_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[        ]   [   +2 ms] Found plugin jni_flutter at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[        ]   [   +2 ms] Found plugin jni at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[        ]   [   +3 ms] Found plugin geolocator at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator-11.1.0\
+[        ]   [   +5 ms] Found plugin geolocator_windows at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_windows-0.2.5\
+[        ]   [   +3 ms] Found plugin geolocator_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_web-3.0.0\
+[        ]   [   +2 ms] Found plugin geolocator_apple at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_apple-2.3.13\
+[        ]   [   +2 ms] Found plugin geolocator_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.6.2\
+[   +8 ms]   [  +12 ms] Found plugin flutter_local_notifications at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +5 ms]   [   +5 ms] Found plugin flutter_local_notifications_linux at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +4 ms]   [   +4 ms] Found plugin flutter_libserialport at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_libserialport-0.3.0\
+[   +9 ms]   [  +10 ms] Found plugin firebase_storage at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.10\
+[   +1 ms]   [   +2 ms] Found plugin firebase_storage_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.10.17\
+[   +3 ms]   [   +3 ms] Found plugin firebase_core at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.2\
+[   +2 ms]   [   +2 ms] Found plugin firebase_core_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.1\
+[   +4 ms]   [   +4 ms] Found plugin firebase_messaging at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\
+[   +1 ms]   [   +1 ms] Found plugin firebase_messaging_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.10.10\
+[   +2 ms]   [   +2 ms] Found plugin firebase_auth at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.7.0\
+[   +1 ms]   [   +1 ms] Found plugin firebase_auth_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.15.3\
+[   +7 ms]   [   +7 ms] Found plugin cloud_firestore at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.12\
+[   +2 ms]   [   +2 ms] Found plugin cloud_firestore_web at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-4.4.12\
+[   +8 ms]   [   +8 ms] Found plugin sqflite at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[  +10 ms]   [   +9 ms] Found plugin sqflite_darwin at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms]   [   +3 ms] Found plugin sqflite_android at C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +42 ms]   [  +42 ms] Skipping generating dart_plugin_registrant.dart because it is up-to-date.
+[        ]   [        ] gen_dart_plugin_registrant: Complete
+[   +4 ms]   [   +4 ms] kernel_snapshot_program: Starting due to {}
+[  +23 ms]   [  +21 ms] C:\Users\CrownTech\Documents\flutter\bin\cache\dart-sdk\bin\dartaotruntime.exe C:\Users\CrownTech\Documents\flutter\bin\cache\dart-sdk\bin\snapshots\frontend_server_aot.dart.snapshot --sdk-root C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk_product/ --target=flutter --no-print-incremental-dependencies -DFLUTTER_VERSION=3.41.9 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=00b0c91f06 -DFLUTTER_ENGINE_REVISION=42d3d75a56 -DFLUTTER_DART_VERSION=3.11.5 -Ddart.vm.profile=false -Ddart.vm.product=true --delete-tostring-package-uri=dart:ui --delete-tostring-package-uri=package:flutter --aot --tfa --target-os windows --packages C:\Users\CrownTech\Documents\vitaminD\.dart_tool\package_config.json --output-dill C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.dill --depfile C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\kernel_snapshot_program.d --source file:///C:/Users/CrownTech/Documents/vitaminD/.dart_tool/flutter_build/dart_plugin_registrant.dart --source package:flutter/src/dart_plugin_registrant.dart -Dflutter.dart_plugin_registrant=file:///C:/Users/CrownTech/Documents/vitaminD/.dart_tool/flutter_build/dart_plugin_registrant.dart --verbosity=error package:vitamin_d_sensor/main.dart
+[+1915 ms]   [+1914 ms] input.json contents:
+[        ]              {
+[        ]                "assets": {},
+[        ]                "config": {
+[        ]                  "build_asset_types": [
+[        ]                    "code_assets/code"
+[        ]                  ],
+[        ]                  "extensions": {
+[        ]                    "code_assets": {
+[        ]                      "c_compiler": {
+[        ]                        "ar": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\lib.exe",
+[        ]                        "cc": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe",
+[        ]                        "ld": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\link.exe",
+[        ]                        "windows": {
+[        ]                          "developer_command_prompt": {
+[        ]                            "arguments": [],
+[        ]                            "script": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Auxiliary\\Build\\vcvars64.bat"
+[        ]                          }
+[        ]                        }
+[        ]                      },
+[        ]                      "link_mode_preference": "dynamic",
+[        ]                      "target_architecture": "x64",
+[        ]                      "target_os": "windows"
+[        ]                    }
+[        ]                  },
+[        ]                  "linking_enabled": true
+[        ]                },
+[        ]                "out_dir_shared": "C:\\Users\\CrownTech\\Documents\\vitaminD\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
+[        ]                "out_file": "C:\\Users\\CrownTech\\Documents\\vitaminD\\.dart_tool\\hooks_runner\\objective_c\\fa7372492d\\output.json",
+[        ]                "package_name": "objective_c",
+[        ]                "package_root": "C:\\Users\\CrownTech\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\objective_c-9.3.0\\",
+[        ]                "user_defines": {}
+[        ]              }
+[   +2 ms]   [   +9 ms] Running `(cd C:\Users\CrownTech\AppData\Local\Pub\Cache\hosted\pub.dev\objective_c-9.3.0\; PATH=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64;;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x86;;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\tools;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64;C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\cursor\resources\app\bin;C:\Program Files\PyManager\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\CrownTech\Documents\flutter\bin;C:\Users\CrownTech\AppData\Local\Microsoft\WindowsApps;C:\Users\CrownTech\AppData\Local\Programs\Antigravity\bin;C:\Users\CrownTech\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\CrownTech\AppData\Local\Python\bin;C:\Users\CrownTech\AppData\Local\PowerToys\DSCModules\;C:\Users\CrownTech\Documents\flutter\bin;;C:\Users\CrownTech\Documents\flutter\bin\mingit\cmd;;C:\Users\CrownTech\Documents\flutter\bin\mingit\cmd PROGRAMDATA=C:\ProgramData SYSTEMDRIVE=C: SYSTEMROOT=C:\WINDOWS TEMP=C:\Users\CROWNT~1\AppData\Local\Temp TMP=C:\Users\CROWNT~1\AppData\Local\Temp USERPROFILE=C:\Users\CrownTech WINDIR=C:\WINDOWS C:\Users\CrownTech\Documents\flutter\bin\cache\dart-sdk\bin\dart --packages=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\package_config.json C:\Users\CrownTech\Documents\vitaminD\.dart_tool\hooks_runner\objective_c\fa7372492d\hook.dill --config=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\hooks_runner\objective_c\fa7372492d\input.json )`.
+[ +322 ms]   [ +322 ms] output.json contents:
+[        ]              {
+[        ]                "assets_for_linking": {},
+[        ]                "status": "success",
+[        ]                "timestamp": "2026-05-18 05:59:13.000"
+[        ]              }
+[  +47 ms]   [  +48 ms] Building native assets for windows_x64 done.
+[   +3 ms]   [   +3 ms] dart_build: Complete
+[   +6 ms]   [   +6 ms] install_code_assets: Starting due to {}
+[  +12 ms]   [  +12 ms] Writing native assets json to file:///C:/Users/CrownTech/Documents/vitaminD/.dart_tool/flutter_build/3fc0cd63c265be872d428084e0ab010f/native_assets.json.
+[   +2 ms]   [   +3 ms] Writing C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\native_assets.json done.
+[   +1 ms]   [   +1 ms] install_code_assets: Complete
+[+24716 ms]   [+24715 ms] kernel_snapshot_program: Complete
+[+1242 ms]   [+1242 ms] aot_elf_release: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\Users\CrownTech\Documents\flutter\packages\flutter_tools\lib\src\build_system\targets\common.dart,C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.dill,C:\Users\CrownTech\Documents\flutter\bin\cache\engine.stamp,C:\Users\CrownTech\Documents\flutter\bin\cache\engine.stamp,C:\Users\CrownTech\Documents\flutter\bin\cache\engine.stamp, InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.so}
+[   +6 ms]   [   +6 ms] targetingApplePlatform = false
+[        ]   [        ] extractAppleDebugSymbols = true
+[        ]   [        ] Will strip AOT snapshot during build.
+[   +1 ms]   [   +1 ms] executing: C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\windows-x64-release\gen_snapshot --deterministic --snapshot_kind=app-aot-elf --elf=C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.so --strip C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.dill
+[+5965 ms]   [+5964 ms] aot_elf_release: Complete
+[  +26 ms]   [  +26 ms] windows_aot_bundle: Starting due to {InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\Users\CrownTech\Documents\vitaminD\.dart_tool\flutter_build\3fc0cd63c265be872d428084e0ab010f\app.so, InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: C:\Users\CrownTech\Documents\vitaminD\build\windows\app.so}
+[   +8 ms]   [   +8 ms] windows_aot_bundle: Complete
+[  +19 ms]   [  +20 ms] release_bundle_windows-x64_assets: Starting due to {}
+[ +261 ms]   [ +261 ms] Manifest contained wildcard assets. Inserting missing file into build graph to force rerun. for more information see #56466.
+[   +8 ms]   [   +8 ms] shaderc command: [C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=C:\Users\CrownTech\Documents\vitaminD\build\flutter_assets\shaders/ink_sparkle.frag, --spirv=C:\Users\CrownTech\Documents\vitaminD\build\flutter_assets\shaders/ink_sparkle.frag.spirv, --input=C:\Users\CrownTech\Documents\flutter\packages\flutter\lib\src\material\shaders\ink_sparkle.frag, --input-type=frag, --include=C:\Users\CrownTech\Documents\flutter\packages\flutter\lib\src\material\shaders, --include=C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[   +1 ms]   [   +1 ms] shaderc command: [C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=C:\Users\CrownTech\Documents\vitaminD\build\flutter_assets\shaders/stretch_effect.frag, --spirv=C:\Users\CrownTech\Documents\vitaminD\build\flutter_assets\shaders/stretch_effect.frag.spirv, --input=C:\Users\CrownTech\Documents\flutter\packages\flutter\lib\src\material\shaders\stretch_effect.frag, --input-type=frag, --include=C:\Users\CrownTech\Documents\flutter\packages\flutter\lib\src\material\shaders, --include=C:\Users\CrownTech\Documents\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[+1124 ms]   [+1123 ms] release_bundle_windows-x64_assets: Complete
+[  +97 ms]   [  +96 ms] Persisting file store
+[  +25 ms]   [  +26 ms] Done persisting file store
+[  +43 ms]   [  +43 ms] build succeeded.
+[        ]   [        ] "flutter assemble" took 40,626ms.
+[  +63 ms]   [  +62 ms] Running 1 shutdown hook
+[        ]   [   +1 ms] Shutdown hooks complete
+[ +255 ms]   [ +255 ms] exiting with code 0
+[  +77 ms]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/CMakeLists.txt
+[  +74 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\flutter_assemble\flutter_assemble.tlog\flutter_assemble.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_assemble.vcxproj" (default targets).
+[  +74 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\cloud_firestore_plugin.vcxproj" (4) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\firebase_core_plugin.vcxproj" (6) on node 1 (default targets).
+[        ] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\firebase_core_plugin.vcxproj" (6) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj" (7) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\".
+[        ]   Creating directory "flutter_wrapper_plugin.dir\Release\flutter_.B9442D44.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "flutter_wrapper_plugin.dir\Release\flutter_.B9442D44.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "flutter_wrapper_plugin.dir\Release\flutter_.B9442D44.tlog\unsuccessfulbuild".
+[  +51 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/CMakeLists.txt
+[ +119 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"flutter_wrapper_plugin.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_plugin.pdb" /external:W4 /TP /wd4100 /errorReport:queue C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc
+[  +99 ms]   core_implementations.cc
+[+1641 ms]   standard_codec.cc
+[+1578 ms]   plugin_registrar.cc
+[ +841 ms]   Generating Code...
+[+2156 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 flutter_wrapper_plugin.dir\Release\core_implementations.obj
+[        ]   flutter_wrapper_plugin.dir\Release\standard_codec.obj
+[        ]   flutter_wrapper_plugin.dir\Release\plugin_registrar.obj
+[ +153 ms]   flutter_wrapper_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_plugin.lib
+[  +25 ms] FinalizeBuildStatus:
+[        ]   Deleting file "flutter_wrapper_plugin.dir\Release\flutter_.B9442D44.tlog\unsuccessfulbuild".
+[        ]   Touching "flutter_wrapper_plugin.dir\Release\flutter_.B9442D44.tlog\flutter_wrapper_plugin.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_wrapper_plugin.vcxproj" (default targets).
+[  +10 ms] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\Release\".
+[        ]   Creating directory "firebase_core_plugin.dir\Release\firebase.5D589F99.tlog\".
+[   +5 ms] InitializeBuildStatus:
+[        ]   Creating "firebase_core_plugin.dir\Release\firebase.5D589F99.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "firebase_core_plugin.dir\Release\firebase.5D589F99.tlog\unsuccessfulbuild".
+[  +74 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/windows/CMakeLists.txt
+[  +75 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\build\windows\x64\generated /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D INTERNAL_EXPERIMENTAL=1 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"firebase_core_plugin.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\Release\firebase_core_plugin.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/include" C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\firebase_core_plugin_c_api.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\firebase_core_plugin.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\messages.g.cpp
+[  +92 ms]   firebase_core_plugin_c_api.cpp
+[+1891 ms]   firebase_core_plugin.cpp
+[+2751 ms]   messages.g.cpp
+[+1639 ms]   Generating Code...
+[+2082 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\Release\firebase_core_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 firebase_core_plugin.dir\Release\firebase_core_plugin_c_api.obj
+[        ]   firebase_core_plugin.dir\Release\firebase_core_plugin.obj
+[        ]   firebase_core_plugin.dir\Release\messages.g.obj
+[ +121 ms]   firebase_core_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\Release\firebase_core_plugin.lib
+[  +12 ms] FinalizeBuildStatus:
+[        ]   Deleting file "firebase_core_plugin.dir\Release\firebase.5D589F99.tlog\unsuccessfulbuild".
+[        ]   Touching "firebase_core_plugin.dir\Release\firebase.5D589F99.tlog\firebase_core_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_core\firebase_core_plugin.vcxproj" (default targets).
+[   +7 ms] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\Release\".
+[        ]   Creating directory "cloud_firestore_plugin.dir\Release\cloud_fi.8295D4E9.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "cloud_firestore_plugin.dir\Release\cloud_fi.8295D4E9.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "cloud_firestore_plugin.dir\Release\cloud_fi.8295D4E9.tlog\unsuccessfulbuild".
+[  +52 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/cloud_firestore/windows/CMakeLists.txt
+[  +49 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\build\windows\x64\generated /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D INTERNAL_EXPERIMENTAL=1 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"cloud_firestore_plugin.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\Release\cloud_firestore_plugin.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/include" C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\cloud_firestore_plugin_c_api.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\cloud_firestore_plugin.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\messages.g.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\firestore_codec.cpp
+[  +61 ms]   cloud_firestore_plugin_c_api.cpp
+[+1706 ms]   cloud_firestore_plugin.cpp
+[+3237 ms]   messages.g.cpp
+[+1927 ms]   firestore_codec.cpp
+[+1872 ms]   Generating Code...
+[+5793 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\Release\cloud_firestore_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 cloud_firestore_plugin.dir\Release\cloud_firestore_plugin_c_api.obj
+[        ]   cloud_firestore_plugin.dir\Release\cloud_firestore_plugin.obj
+[        ]   cloud_firestore_plugin.dir\Release\messages.g.obj
+[        ]   cloud_firestore_plugin.dir\Release\firestore_codec.obj
+[ +203 ms]   cloud_firestore_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\Release\cloud_firestore_plugin.lib
+[  +15 ms] FinalizeBuildStatus:
+[        ]   Deleting file "cloud_firestore_plugin.dir\Release\cloud_fi.8295D4E9.tlog\unsuccessfulbuild".
+[        ]   Touching "cloud_firestore_plugin.dir\Release\cloud_fi.8295D4E9.tlog\cloud_firestore_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\cloud_firestore\cloud_firestore_plugin.vcxproj" (default targets).
+[  +28 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\firebase_auth_plugin.vcxproj" (8) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\Release\".
+[        ]   Creating directory "firebase_auth_plugin.dir\Release\firebase.9DBC2D00.tlog\".
+[   +2 ms] InitializeBuildStatus:
+[        ]   Creating "firebase_auth_plugin.dir\Release\firebase.9DBC2D00.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "firebase_auth_plugin.dir\Release\firebase.9DBC2D00.tlog\unsuccessfulbuild".
+[  +51 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/windows/CMakeLists.txt
+[  +41 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\build\windows\x64\generated /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D INTERNAL_EXPERIMENTAL=1 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"firebase_auth_plugin.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\Release\firebase_auth_plugin.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/include" C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\firebase_auth_plugin_c_api.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\firebase_auth_plugin.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\messages.g.cpp
+[  +56 ms]   firebase_auth_plugin_c_api.cpp
+[+1663 ms]   firebase_auth_plugin.cpp
+[+2683 ms]   messages.g.cpp
+[+2395 ms]   Generating Code...
+[+5488 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\Release\firebase_auth_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 firebase_auth_plugin.dir\Release\firebase_auth_plugin_c_api.obj
+[        ]   firebase_auth_plugin.dir\Release\firebase_auth_plugin.obj
+[        ]   firebase_auth_plugin.dir\Release\messages.g.obj
+[ +164 ms]   firebase_auth_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\Release\firebase_auth_plugin.lib
+[  +11 ms] FinalizeBuildStatus:
+[        ]   Deleting file "firebase_auth_plugin.dir\Release\firebase.9DBC2D00.tlog\unsuccessfulbuild".
+[        ]   Touching "firebase_auth_plugin.dir\Release\firebase.9DBC2D00.tlog\firebase_auth_plugin.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_auth\firebase_auth_plugin.vcxproj" (default targets).
+[  +37 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\firebase_storage_plugin.vcxproj" (9) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\Release\".
+[        ]   Creating directory "firebase_storage_plugin.dir\Release\firebase.97B43740.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "firebase_storage_plugin.dir\Release\firebase.97B43740.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "firebase_storage_plugin.dir\Release\firebase.97B43740.tlog\unsuccessfulbuild".
+[  +43 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/firebase_storage/windows/CMakeLists.txt
+[  +45 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\build\windows\x64\generated /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D INTERNAL_EXPERIMENTAL=1 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"firebase_storage_plugin.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\Release\firebase_storage_plugin.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/include" C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_storage\windows\firebase_storage_plugin_c_api.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_storage\windows\firebase_storage_plugin.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_storage\windows\messages.g.cpp
+[  +55 ms]   firebase_storage_plugin_c_api.cpp
+[+1511 ms]   firebase_storage_plugin.cpp
+[+2600 ms]   messages.g.cpp
+[+1780 ms]   Generating Code...
+[+3953 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\Release\firebase_storage_plugin.lib" /NOLOGO /MACHINE:X64  /machine:x64 firebase_storage_plugin.dir\Release\firebase_storage_plugin_c_api.obj
+[        ]   firebase_storage_plugin.dir\Release\firebase_storage_plugin.obj
+[        ]   firebase_storage_plugin.dir\Release\messages.g.obj
+[ +170 ms]   firebase_storage_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\Release\firebase_storage_plugin.lib
+[   +8 ms] FinalizeBuildStatus:
+[        ]   Deleting file "firebase_storage_plugin.dir\Release\firebase.97B43740.tlog\unsuccessfulbuild".
+[        ]   Touching "firebase_storage_plugin.dir\Release\firebase.97B43740.tlog\firebase_storage_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\firebase_storage\firebase_storage_plugin.vcxproj" (default targets).
+[  +28 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\flutter_libserialport_plugin.vcxproj" (10) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\Release\".
+[        ]   Creating directory "flutter_libserialport_plugin.dir\Release\flutter_.306296D3.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "flutter_libserialport_plugin.dir\Release\flutter_.306296D3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "flutter_libserialport_plugin.dir\Release\flutter_.306296D3.tlog\unsuccessfulbuild".
+[  +37 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/flutter_libserialport/windows/CMakeLists.txt
+[  +42 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D flutter_libserialport_plugin_EXPORTS /EHsc /MD /GR /std:c++17 /Fo"flutter_libserialport_plugin.dir\Release\\" /Fd"flutter_libserialport_plugin.dir\Release\vc145.pdb" /external:W4 /TP /wd4100 /errorReport:queue C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\windows\flutter_libserialport_plugin.cpp
+[  +59 ms]   flutter_libserialport_plugin.cpp
+[+1177 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\Release\flutter_libserialport_plugin.dll" /INCREMENTAL:NO /NOLOGO ..\..\flutter\Release\flutter_wrapper_plugin.lib C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/Release/flutter_libserialport_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/Release/flutter_libserialport_plugin.lib" /MACHINE:X64  /machine:x64 /DLL flutter_libserialport_plugin.dir\Release\flutter_libserialport_plugin.obj
+[  +92 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/Release/flutter_libserialport_plugin.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/Release/flutter_libserialport_plugin.exp
+[ +105 ms]   flutter_libserialport_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\Release\flutter_libserialport_plugin.dll
+[   +9 ms] FinalizeBuildStatus:
+[        ]   Deleting file "flutter_libserialport_plugin.dir\Release\flutter_.306296D3.tlog\unsuccessfulbuild".
+[        ]   Touching "flutter_libserialport_plugin.dir\Release\flutter_.306296D3.tlog\flutter_libserialport_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\flutter_libserialport_plugin.vcxproj" (default targets).
+[  +33 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_wrapper_app.vcxproj" (11) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "flutter_wrapper_app.dir\Release\flutter_.D0A80896.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "flutter_wrapper_app.dir\Release\flutter_.D0A80896.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "flutter_wrapper_app.dir\Release\flutter_.D0A80896.tlog\unsuccessfulbuild".
+[  +44 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/CMakeLists.txt
+[  +49 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"flutter_wrapper_app.dir\Release\\" /Fd"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_app.pdb" /external:W4 /TP /wd4100 /errorReport:queue C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc
+[  +62 ms]   core_implementations.cc
+[+1059 ms]   standard_codec.cc
+[+1249 ms]   flutter_engine.cc
+[+1298 ms]   flutter_view_controller.cc
+[+1128 ms]   Generating Code...
+[+1763 ms] Lib:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_app.lib" /NOLOGO /MACHINE:X64  /machine:x64 flutter_wrapper_app.dir\Release\core_implementations.obj
+[        ]   flutter_wrapper_app.dir\Release\standard_codec.obj
+[        ]   flutter_wrapper_app.dir\Release\flutter_engine.obj
+[        ]   flutter_wrapper_app.dir\Release\flutter_view_controller.obj
+[ +132 ms]   flutter_wrapper_app.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\Release\flutter_wrapper_app.lib
+[  +11 ms] FinalizeBuildStatus:
+[        ]   Deleting file "flutter_wrapper_app.dir\Release\flutter_.D0A80896.tlog\unsuccessfulbuild".
+[        ]   Touching "flutter_wrapper_app.dir\Release\flutter_.D0A80896.tlog\flutter_wrapper_app.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\flutter\flutter_wrapper_app.vcxproj" (default targets).
+[  +27 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\geolocator_windows_plugin.vcxproj" (12) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\Release\".
+[        ]   Creating directory "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2.tlog\unsuccessfulbuild".
+[  +48 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/windows/CMakeLists.txt
+[  +57 ms] ComputeStdModulesCompileInputs:
+[        ]   Reading library manifest file 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\modules.json' which provides data for library 'microsoft/STL'.
+[        ]   Adding module source 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.ixx' from library 'microsoft/STL' to be built with this project.
+[        ]   Adding module source 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.compat.ixx' from library 'microsoft/STL' to be built with this project.
+[   +1 ms] MakeDirsForCl:
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\geolocator_windows_plugin.dir\Release\microsoft\STL".
+[   +1 ms] SetModuleDependencies:
+[        ]   Creating directory "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2_MD.tlog\".
+[  +21 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D geolocator_windows_plugin_EXPORTS /EHsc /MD /GR /std:c++20 /Fo"geolocator_windows_plugin.dir\Release\\" /Fd"geolocator_windows_plugin.dir\Release\vc145.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/include" /await:strict C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_windows.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\geolocator_plugin.cpp
+[  +60 ms]   geolocator_windows.cpp
+[+4866 ms]   geolocator_plugin.cpp
+[+5782 ms]   Generating Code...
+[+1723 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\Release\geolocator_windows_plugin.dll" /INCREMENTAL:NO /NOLOGO ..\..\flutter\Release\flutter_wrapper_plugin.lib C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/geolocator_windows/Release/geolocator_windows_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/geolocator_windows/Release/geolocator_windows_plugin.lib" /MACHINE:X64  /machine:x64 /DLL geolocator_windows_plugin.dir\Release\geolocator_windows.obj
+[        ]   geolocator_windows_plugin.dir\Release\geolocator_plugin.obj
+[  +83 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/geolocator_windows/Release/geolocator_windows_plugin.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/geolocator_windows/Release/geolocator_windows_plugin.exp
+[ +122 ms]   geolocator_windows_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\Release\geolocator_windows_plugin.dll
+[  +10 ms] FinalizeBuildStatus:
+[        ]   Deleting file "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2.tlog\unsuccessfulbuild".
+[        ]   Touching "geolocator_windows_plugin.dir\Release\geolocat.0F7030B2.tlog\geolocator_windows_plugin.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\geolocator_windows\geolocator_windows_plugin.vcxproj" (default targets).
+[  +29 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\jni\shared\jni.vcxproj" (13) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\jni\shared\Release\".
+[        ]   Creating directory "jni.dir\Release\jni.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "jni.dir\Release\jni.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "jni.dir\Release\jni.tlog\unsuccessfulbuild".
+[  +55 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/jni/src/CMakeLists.txt
+[  +46 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /I"C:\Program Files\Java\jdk-22\include" /I"C:\Program Files\Java\jdk-22\include\win32" /nologo /W3 /WX- /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D DART_SHARED_LIB /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D jni_EXPORTS /MD /Fo"jni.dir\Release\\" /Fd"jni.dir\Release\vc145.pdb" /external:W3 /TC /errorReport:queue C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\jni\src\dartjni.c C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\jni\src\third_party\global_jni_env.c C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\jni\src\include\dart_api_dl.c
+[  +63 ms]   dartjni.c
+[ +267 ms]   global_jni_env.c
+[ +245 ms]   dart_api_dl.c
+[  +29 ms]   Generating Code...
+[ +286 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\jni\shared\Release\dartjni.dll" /INCREMENTAL:NO /NOLOGO "C:\Program Files\Java\jdk-22\lib\jvm.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/jni/shared/Release/dartjni.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/jni/shared/Release/dartjni.lib" /MACHINE:X64  /machine:x64 /DLL jni.dir\Release\dartjni.obj
+[        ]   jni.dir\Release\global_jni_env.obj
+[        ]   jni.dir\Release\dart_api_dl.obj
+[  +55 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/jni/shared/Release/dartjni.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/jni/shared/Release/dartjni.exp
+[  +98 ms]   jni.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\jni\shared\Release\dartjni.dll
+[   +9 ms] FinalizeBuildStatus:
+[        ]   Deleting file "jni.dir\Release\jni.tlog\unsuccessfulbuild".
+[        ]   Touching "jni.dir\Release\jni.tlog\jni.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\jni\shared\jni.vcxproj" (default targets).
+[  +43 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.vcxproj" (14) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\Release\".
+[        ]   Creating directory "permission_handler_windows_plugin.dir\Release\permissi.82B46C36.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "permission_handler_windows_plugin.dir\Release\permissi.82B46C36.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "permission_handler_windows_plugin.dir\Release\permissi.82B46C36.tlog\unsuccessfulbuild".
+[  +41 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/permission_handler_windows/windows/CMakeLists.txt
+[  +37 ms] ComputeStdModulesCompileInputs:
+[        ]   Reading library manifest file 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\modules.json' which provides data for library 'microsoft/STL'.
+[        ]   Adding module source 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.ixx' from library 'microsoft/STL' to be built with this project.
+[        ]   Adding module source 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\modules\std.compat.ixx' from library 'microsoft/STL' to be built with this project.
+[        ] MakeDirsForCl:
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.dir\Release\microsoft\STL".
+[   +1 ms] SetModuleDependencies:
+[        ]   Creating directory "permission_handler_windows_plugin.dir\Release\permissi.82B46C36_MD.tlog\".
+[   +4 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D permission_handler_windows_plugin_EXPORTS /EHsc /MD /GR /std:c++20 /Fo"permission_handler_windows_plugin.dir\Release\\" /Fd"permission_handler_windows_plugin.dir\Release\vc145.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/include" /await C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\permission_handler_windows_plugin.cpp
+[  +71 ms] cl : command line  warning D9047: option 'await' has been deprecated and will be removed in a future release. [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.vcxproj]
+[        ]       Standard C++ coroutines are available by default in C++20 or later, or use '/await:strict' in earlier language modes.
+[        ]   permission_handler_windows_plugin.cpp
+[+8115 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\Release\permission_handler_windows_plugin.dll" /INCREMENTAL:NO /NOLOGO ..\..\flutter\Release\flutter_wrapper_plugin.lib C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/permission_handler_windows/Release/permission_handler_windows_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/permission_handler_windows/Release/permission_handler_windows_plugin.lib" /MACHINE:X64  /machine:x64 /DLL permission_handler_windows_plugin.dir\Release\permission_handler_windows_plugin.obj
+[  +77 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/permission_handler_windows/Release/permission_handler_windows_plugin.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/permission_handler_windows/Release/permission_handler_windows_plugin.exp
+[  +98 ms]   permission_handler_windows_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\Release\permission_handler_windows_plugin.dll
+[  +10 ms] FinalizeBuildStatus:
+[        ]   Deleting file "permission_handler_windows_plugin.dir\Release\permissi.82B46C36.tlog\unsuccessfulbuild".
+[        ]   Touching "permission_handler_windows_plugin.dir\Release\permissi.82B46C36.tlog\permission_handler_windows_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.vcxproj" (default targets).
+[  +31 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\printing\printing_plugin.vcxproj" (15) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\printing\Release\".
+[        ]   Creating directory "printing_plugin.dir\Release\printing_plugin.tlog\".
+[   +3 ms] InitializeBuildStatus:
+[        ]   Creating "printing_plugin.dir\Release\printing_plugin.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "printing_plugin.dir\Release\printing_plugin.tlog\unsuccessfulbuild".
+[  +44 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/printing/windows/CMakeLists.txt
+[  +49 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D FLUTTER_PLUGIN_IMPL /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D printing_plugin_EXPORTS /EHsc /MD /GR /std:c++17 /Fo"printing_plugin.dir\Release\\" /Fd"printing_plugin.dir\Release\vc145.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/pdfium-src/include" /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/pdfium-src/include/cpp" C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\printing\windows\printing.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\printing\windows\printing_plugin.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\printing\windows\print_job.cpp
+[  +59 ms]   printing.cpp
+[+1578 ms]   printing_plugin.cpp
+[+1776 ms]   print_job.cpp
+[+1644 ms]   Generating Code...
+[+2125 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\printing\Release\printing_plugin.dll" /INCREMENTAL:NO /NOLOGO "..\..\pdfium-src\lib\pdfium.dll.lib" ..\..\flutter\Release\flutter_wrapper_plugin.lib C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\flutter_windows.dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/printing/Release/printing_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/printing/Release/printing_plugin.lib" /MACHINE:X64  /machine:x64 /DLL printing_plugin.dir\Release\printing.obj
+[        ]   printing_plugin.dir\Release\printing_plugin.obj
+[        ]   printing_plugin.dir\Release\print_job.obj
+[  +79 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/printing/Release/printing_plugin.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/printing/Release/printing_plugin.exp
+[ +106 ms]   printing_plugin.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\printing\Release\printing_plugin.dll
+[   +8 ms] FinalizeBuildStatus:
+[        ]   Deleting file "printing_plugin.dir\Release\printing_plugin.tlog\unsuccessfulbuild".
+[        ]   Touching "printing_plugin.dir\Release\printing_plugin.tlog\printing_plugin.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\printing\printing_plugin.vcxproj" (default targets).
+[  +26 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\libserialport\serialport.vcxproj" (16) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\libserialport\Release\".
+[        ]   Creating directory "serialport.dir\Release\serialport.tlog\".
+[   +2 ms] InitializeBuildStatus:
+[        ]   Creating "serialport.dir\Release\serialport.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "serialport.dir\Release\serialport.tlog\unsuccessfulbuild".
+[  +56 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/flutter/ephemeral/.plugin_symlinks/flutter_libserialport/windows/libserialport/CMakeLists.txt
+[  +50 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\windows\libserialport /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\windows\libserialport\..\..\third_party\libserialport /nologo /W3 /WX- /diagnostics:column /O2 /Ob2 /D _WINDLL /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D LIBSERIALPORT_MSBUILD /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D serialport_EXPORTS /MD /Fo"serialport.dir\Release\\" /Fd"serialport.dir\Release\vc145.pdb" /external:W3 /TC /errorReport:queue C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\third_party\libserialport\serialport.c C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\third_party\libserialport\timing.c C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\third_party\libserialport\windows.c
+[  +61 ms]   serialport.c
+[ +316 ms]   timing.c
+[ +336 ms]   windows.c
+[ +301 ms]   Generating Code...
+[ +254 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\libserialport\Release\serialport.dll" /INCREMENTAL:NO /NOLOGO cfgmgr32.lib SetupAPI.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/libserialport/Release/serialport.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/libserialport/Release/serialport.lib" /MACHINE:X64  /machine:x64 /DLL serialport.dir\Release\serialport.obj
+[        ]   serialport.dir\Release\timing.obj
+[        ]   serialport.dir\Release\windows.obj
+[  +66 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/libserialport/Release/serialport.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/plugins/flutter_libserialport/libserialport/Release/serialport.exp
+[ +102 ms]   serialport.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\libserialport\Release\serialport.dll
+[   +7 ms] FinalizeBuildStatus:
+[        ]   Deleting file "serialport.dir\Release\serialport.tlog\unsuccessfulbuild".
+[        ]   Touching "serialport.dir\Release\serialport.tlog\serialport.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\flutter_libserialport\libserialport\serialport.vcxproj" (default targets).
+[  +45 ms] Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\vitamin_d_sensor.vcxproj" (17) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\Release\".
+[        ]   Creating directory "vitamin_d_sensor.dir\Release\vitamin_d_sensor.tlog\".
+[   +2 ms] InitializeBuildStatus:
+[        ]   Creating "vitamin_d_sensor.dir\Release\vitamin_d_sensor.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "vitamin_d_sensor.dir\Release\vitamin_d_sensor.tlog\unsuccessfulbuild".
+[  +50 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/runner/CMakeLists.txt
+[  +60 ms] ClCompile:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /IC:\Users\CrownTech\Documents\vitaminD\windows /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_storage\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\printing\windows\include /nologo /W4 /WX /diagnostics:column /O2 /Ob2 /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D "FLUTTER_VERSION=\"1.0.0+1\"" /D FLUTTER_VERSION_MAJOR=1 /D FLUTTER_VERSION_MINOR=0 /D FLUTTER_VERSION_PATCH=0 /D FLUTTER_VERSION_BUILD=1 /D NOMINMAX /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D FLUTTER_PLUGIN_IMPL /D "CMAKE_INTDIR=\"Release\"" /EHsc /MD /GR /std:c++17 /Fo"vitamin_d_sensor.dir\Release\\" /Fd"vitamin_d_sensor.dir\Release\vc145.pdb" /external:W0 /TP /wd4100 /errorReport:queue  /external:I "C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/extracted/firebase_cpp_sdk_windows/include" C:\Users\CrownTech\Documents\vitaminD\windows\runner\flutter_window.cpp C:\Users\CrownTech\Documents\vitaminD\windows\runner\main.cpp C:\Users\CrownTech\Documents\vitaminD\windows\runner\utils.cpp C:\Users\CrownTech\Documents\vitaminD\windows\runner\win32_window.cpp C:\Users\CrownTech\Documents\vitaminD\windows\flutter\generated_plugin_registrant.cc
+[  +54 ms]   flutter_window.cpp
+[+1042 ms]   main.cpp
+[ +962 ms]   utils.cpp
+[ +986 ms]   win32_window.cpp
+[ +871 ms]   generated_plugin_registrant.cc
+[ +401 ms]   Generating Code...
+[ +523 ms] ResourceCompile:
+[        ]   C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64\rc.exe /D _UNICODE /D UNICODE /D WIN32 /D _WINDOWS /D NDEBUG /D _HAS_EXCEPTIONS=0 /D "FLUTTER_VERSION=\\\"1.0.0+1\\\"" /D FLUTTER_VERSION_MAJOR=1 /D FLUTTER_VERSION_MINOR=0 /D FLUTTER_VERSION_PATCH=0 /D FLUTTER_VERSION_BUILD=1 /D NOMINMAX /D UNICODE /D _UNICODE /D _SILENCE_EXPERIMENTAL_COROUTINE_DEPRECATION_WARNINGS /D FLUTTER_PLUGIN_IMPL /D "CMAKE_INTDIR=\\\"Release\\\"" /l"0x0409" /IC:\Users\CrownTech\Documents\vitaminD\windows /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\cpp_client_wrapper\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\firebase_storage\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\flutter_libserialport\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\geolocator_windows\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\include /IC:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\.plugin_symlinks\printing\windows\include /IC:\Users\CrownTech\Documents\vitaminD\build\windows\x64\extracted\firebase_cpp_sdk_windows\include /nologo /fo"vitamin_d_sensor.dir\Release\Runner.res" C:\Users\CrownTech\Documents\vitaminD\windows\runner\Runner.rc 
+[  +86 ms] Link:
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /OUT:"C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\Release\vitamin_d_sensor.exe" /INCREMENTAL:NO /NOLOGO ..\flutter\Release\flutter_wrapper_app.lib dwmapi.lib ..\plugins\cloud_firestore\Release\cloud_firestore_plugin.lib ..\plugins\firebase_auth\Release\firebase_auth_plugin.lib ..\plugins\firebase_core\Release\firebase_core_plugin.lib ..\plugins\firebase_storage\Release\firebase_storage_plugin.lib ..\plugins\flutter_libserialport\Release\flutter_libserialport_plugin.lib ..\plugins\geolocator_windows\Release\geolocator_windows_plugin.lib ..\plugins\permission_handler_windows\Release\permission_handler_windows_plugin.lib ..\plugins\printing\Release\printing_plugin.lib ..\extracted\firebase_cpp_sdk_windows\libs\windows\VS2019\MD\x64\Release\firebase_firestore.lib shell32.lib Bcrypt.lib DbgHelp.lib ..\extracted\firebase_cpp_sdk_windows\libs\windows\VS2019\MD\x64\Release\firebase_auth.lib ..\plugins\firebase_core\Release\firebase_core_plugin.lib advapi32.lib ws2_32.lib crypt32.lib rpcrt4.lib ole32.lib ..\extracted\firebase_cpp_sdk_windows\libs\windows\VS2019\MD\x64\Release\firebase_app.lib icu.lib ..\flutter\Release\flutter_wrapper_plugin.lib C:\Users\CrownTech\Documents\vitaminD\windows\flutter\ephemeral\flutter_windows.dll.lib ..\extracted\firebase_cpp_sdk_windows\libs\windows\VS2019\MD\x64\Release\firebase_storage.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\Users\CrownTech\Documents\vitaminD\windows\runner\runner.exe.manifest /PDB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/runner/Release/vitamin_d_sensor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /IMPLIB:"C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/runner/Release/vitamin_d_sensor.lib" /MACHINE:X64  /machine:x64 vitamin_d_sensor.dir\Release\Runner.res
+[        ]   vitamin_d_sensor.dir\Release\flutter_window.obj
+[        ]   vitamin_d_sensor.dir\Release\main.obj
+[        ]   vitamin_d_sensor.dir\Release\utils.obj
+[        ]   vitamin_d_sensor.dir\Release\win32_window.obj
+[        ]   vitamin_d_sensor.dir\Release\generated_plugin_registrant.obj
+[+1094 ms] MSVCRT.lib(ehvecdtr.obj) : warning LNK4078: multiple '.voltbl' sections found with different attributes (00101A00) [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\vitamin_d_sensor.vcxproj]
+[   +5 ms]      Creating library C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/runner/Release/vitamin_d_sensor.lib and object C:/Users/CrownTech/Documents/vitaminD/build/windows/x64/runner/Release/vitamin_d_sensor.exp
+[ +651 ms]   vitamin_d_sensor.vcxproj -> C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\Release\vitamin_d_sensor.exe
+[  +16 ms] FinalizeBuildStatus:
+[        ]   Deleting file "vitamin_d_sensor.dir\Release\vitamin_d_sensor.tlog\unsuccessfulbuild".
+[        ]   Touching "vitamin_d_sensor.dir\Release\vitamin_d_sensor.tlog\vitamin_d_sensor.lastbuildstate".
+[   +1 ms] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\vitamin_d_sensor.vcxproj" (default targets).
+[  +10 ms] PrepareForBuild:
+[        ]   Creating directory "x64\Release\ALL_BUILD\".
+[   +2 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\ALL_BUILD\ALL_BUILD.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild".
+[  +57 ms] CustomBuild:
+[        ]   Building Custom Rule C:/Users/CrownTech/Documents/vitaminD/windows/CMakeLists.txt
+[  +56 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\ALL_BUILD\ALL_BUILD.tlog\ALL_BUILD.lastbuildstate".
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (default targets).
+[   +4 ms] PrepareForBuild:
+[        ]   Creating directory "x64\Release\INSTALL\".
+[   +2 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\INSTALL\INSTALL.tlog\".
+[   +4 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\INSTALL\INSTALL.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\INSTALL\INSTALL.tlog\unsuccessfulbuild".
+[  +44 ms] CustomBuild:
+[        ]   1>
+[  +22 ms] PostBuildEvent:
+[        ]   setlocal
+[        ]   "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake
+[        ]   if %errorlevel% neq 0 goto :cmEnd
+[        ]   :cmEnd
+[        ]   endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+[        ]   :cmErrorLevel
+[        ]   exit /b %1
+[        ]   :cmDone
+[        ]   if %errorlevel% neq 0 goto :VCEnd
+[        ]   :VCEnd
+[  +75 ms]   -- Install configuration: "Release"
+[   +7 ms]   CMake Error at cmake_install.cmake:120 (file):
+[        ]     file cannot create directory: C:/Program Files/vitamin_d_sensor.  Maybe
+[        ]     need administrative privileges.
+[  +11 ms] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "setlocal [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :cmEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmErrorLevel [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: exit /b %1 [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmDone [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :VCEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 1. [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] Done Building Project "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (default targets) -- FAILED.
+[  +16 ms] Build FAILED.
+[   +1 ms] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (default target) (1) ->
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (default target) (3) ->
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.vcxproj" (default target) (14) ->
+[        ] (ClCompile target) -> 
+[        ]   cl : command line  warning D9047: option 'await' has been deprecated and will be removed in a future release. [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\plugins\permission_handler_windows\permission_handler_windows_plugin.vcxproj]
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (default target) (1) ->
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\ALL_BUILD.vcxproj" (default target) (3) ->
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\vitamin_d_sensor.vcxproj" (default target) (17) ->
+[        ] (Link target) -> 
+[        ]   MSVCRT.lib(ehvecdtr.obj) : warning LNK4078: multiple '.voltbl' sections found with different attributes (00101A00) [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\runner\vitamin_d_sensor.vcxproj]
+[        ] "C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj" (default target) (1) ->
+[        ] (PostBuildEvent target) -> 
+[        ]   C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "setlocal [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DBUILD_TYPE=Release -P cmake_install.cmake [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :cmEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmErrorLevel [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: exit /b %1 [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :cmDone [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: if %errorlevel% neq 0 goto :VCEnd [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ] C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 1. [C:\Users\CrownTech\Documents\vitaminD\build\windows\x64\INSTALL.vcxproj]
+[        ]     2 Warning(s)
+[        ]     1 Error(s)
+[        ] Time Elapsed 00:02:23.72
+[  +29 ms] Building Windows application... (completed in 151.8s)
+[        ] "flutter windows" took 152,851ms.
+[  +64 ms] Build process failed.
+[        ] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      _runBuild (package:flutter_tools/src/windows/build_windows.dart:262:5)
+           <asynchronous suspension>
+           #2      buildWindows (package:flutter_tools/src/windows/build_windows.dart:118:5)
+           <asynchronous suspension>
+           #3      BuildWindowsCommand.runCommand (package:flutter_tools/src/commands/build_windows.dart:72:5)
+           <asynchronous suspension>
+           #4      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1590:27)
+           <asynchronous suspension>
+           #5      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #6      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:496:9)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #9      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:431:5)
+           <asynchronous suspension>
+           #10     FlutterCommandRunner.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:307:33)
+           <asynchronous suspension>
+           #11     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+           <asynchronous suspension>
+           #12     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #13     main (package:flutter_tools/executable.dart:103:3)
+           <asynchronous suspension>
+
+
+[        ] Running 1 shutdown hook
+[        ] Shutdown hooks complete
+[ +262 ms] exiting with code 1
